@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Day05</string>
+    <string name="title_home">Rumah</string>
+    <string name="title_dashboard">Beranda</string>
+    <string name="title_notifications">Notifikasi</string>
+    <string name="profile">Profil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Apa kabar kamu</string>
+</resources>
